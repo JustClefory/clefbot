@@ -330,4 +330,4 @@ if (ch) return ch.send(embed)
 
 
 });
-client.login(config.token)
+client.login("TOKEN")
